@@ -1,7 +1,7 @@
 {
-  "id": "room1",
-  "owner": "@owner123",
+  "id": "01",
+  "owner": "1e698c17114da72c3dcde22a",
+  "bot": "065a7653ddbcb0d6ce781205",
   "rules": "Не спамить, уважать других игроков.",
-  "logo": "https://mppnet-next.github.io/logos/room1.png",
-  "last_updated": "2025-01-19T12:00:00Z"
+  "logo": "https://mppnet-next.github.io/logos/room1.png"
 }
